@@ -28,7 +28,7 @@ Users should be able to:
 
 ## My process
 
-I kept it simple and didn't complicate things in the way the divs were positioned, so I just did it in an easy way and didn't add too much divs... 
+I kept it simple and didn't complicate things in the way the divs were positioned, so I just did it in an easy way and didn't add too much divs... UPDATE: I had to add that extra div in order to make my design better. I used flex instead of hard coding some margins and I added @media so it looks better and responsive.
 
 ### Built with
 
